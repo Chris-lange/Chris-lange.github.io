@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Benjamin Rhodes"
+title                    : "Christian Lange"
 title_separator          : "-"
-name                     : &name "Benjamin Rhodes"
+name                     : &name "Christian Lange"
 description              : &description "Machine Learning PhD researcher"
-url                      : https://benrhodes26.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Chris-lange.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "benrhodes26/benrhodes26.github.io"
+repository               : "Chris-lange/Chris-lange.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Benjamin Rhodes"
+  name             : "Christian Lange"
   avatar           : "me.jpg"
-  bio              : "Machine Learning PhD student at Edinburgh University. Interested in deep probabilistic modelling."
+  bio              : "Machine Learning PhD student at Edinburgh University. Interested in."
   location         : "Edinburgh, UK"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=DNKDL-oAAAAJ&hl=en"
-  email            : "ben.rhodes@ed.ac.uk"
+  email            : "C.P.Lange@sms.ed.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "benrhodes26"
+  github           : "Chris-lange"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
- #  cv               : "http://benrhodes26.github.io/files/CV.pdf"
+ #  cv               : "http://Chris-lange.github.io/files/CV.pdf"
 
 
 # Reading Files
