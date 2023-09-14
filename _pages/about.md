@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I have just submitted my PhD thesis in Machine Learning at [School of Informatics Edinburgh](https://www.ed.ac.uk/informatics), where I was supervised by [Michael Gutmann](https://michaelgutmann.github.io/).
+I am a PhD student in Machine Learning at [School of Informatics Edinburgh](https://www.ed.ac.uk/informatics), where I am supervised by [Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/).
 
-I am interested in leveraging deep neural networks to perform various types of unsupervised probabilistic inference. My publications focused on learning and sampling deep energy-based models, but have broader applicability to areas such as mutual information estimation and Bayesian inference.
+I am interested in applying machine learning to science, representation learning, and methods to exploit available large datasets to improve performance in related tasks. My publications focus on generating spatial representations from noisy community collected data and developing new approaches to species distribution modelling by utilizing disjoint species information. 
