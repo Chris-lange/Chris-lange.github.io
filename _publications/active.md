@@ -1,11 +1,9 @@
 ---
-title: "Spatial Implicit Neural Representations for Global-Scale Species Mapping"
+title: "Active Learning-Based Species Range Estimation"
 collection: publications
-permalink: /publication/sinr
-excerpt: 'Here we investigate implicit neural representations for jointly estimating the spatial range of thousands of species from noisy, sparse, community collected data, with new benchmark tasks for geospatial representations and species distribution models. <br> <br>
-Demo [here](https://huggingface.co/spaces/macaodha/sinr) <br> <br>
-Website [here](https://sites.google.com/view/sinr-geo)'
-date: 2023-06-05
-venue: 'Fortieth International Conference on Machine Learning'
-paperurl: 'http://chris-lange.github.io/files/sinr.pdf'
+permalink: /publication/active
+excerpt: 'Here we investigate a new active learning based approach for the prediction of a species' range from limited data and evaluate our approach on two ground truth datasets. Our approach makes use of species distribution models for well known species in order to improve performance for our target species. <br> <br>
+date: 2023-12-10
+venue: 'Advances in Neural Information Processing Systems 36 (NeurIPS 2023)'
+paperurl: 'http://chris-lange.github.io/files/active.pdf'
 ---
